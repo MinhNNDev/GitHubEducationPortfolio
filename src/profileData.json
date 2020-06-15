@@ -1,0 +1,82 @@
+{
+	"landing": {
+		"firstName": "Minh",
+		"lastName": "NguyenNgoc",
+		"phoneNumber": "+84-886045188",
+		"bio": "I am student in VNU. My tech stack includes C++ and Javascript. i am Font-end Developer on mobile by React Native. Javacript for Fontend and C++ for algorithm side. I use React Native framework for the fontand development. I have also worked with Graph with C++. I have also participated in every number of Hackathon competitions",
+    "email": "nnminhcontact@gmail.com",
+    "linkedin": "https://facebook.com/minhnn2000",
+		"github": "https://github.com/minhnndev"
+	},
+	"experience": [
+		{
+			"position": "Student in Viet Nam University",
+			"organization": "University",
+			"aboutWork": "Second-Year Student, Major Software Engineer",
+			"fromDate": "August 2018",
+			"toDate": "Present"
+		},
+		{
+			"position": "Student in Lam Kinh High School",
+			"organization": "High School",
+			"aboutWork": "Student",
+			"fromDate": "August 2015",
+			"toDate": "May 2018"
+		},
+		{
+			"position": "Student in Xuan Lam Junior High School",
+			"organization": "Junior High School",
+			"aboutWork": "Student",
+			"fromDate": "August 2011",
+			"toDate": "May 2015"
+		}
+	],
+	"education": [{
+			"university": "VNU Information Technology",
+			"degree": "Software Engineer",
+			"gpa": "3.34",
+			"fromDate": "August 2018",
+			"toDate": "Present"
+		}
+	],
+	"skills": [
+		{
+			"name": "C++"
+		},
+		{
+			"name": "C#"
+		},
+		{
+			"name": "HTML"
+		},
+		{
+			"name": "CSS3"
+		},
+		{
+			"name": "Javascript"
+		},
+		{
+			"name": "React"
+		},
+		{
+			"name": "Nodejs"
+		},
+		{
+			"name": "MySQL"
+		}
+	],
+	"interests": {
+		"paragraphOne": "Apart from being a nobile developer, I enjoy most of my time being outdoors. In the summer, I am an avid travel. I also like to play but the sport has the ability to coordinate like football, badminton.",
+		"paragraphTwo": "When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I spend a large amount of my free time exploring the latest technology advancements in the front-end mobile development world."
+	},
+	"awards": [{
+			"awardDetail": "ICPC 27th In Hanoi 2018"
+		},
+		{
+			"awardDetail": "Consolation Prize Olympic Programing In University"
+		},
+		{
+			"awardDetail": "Hackathon Adidas 2020"
+		}
+	]
+}
