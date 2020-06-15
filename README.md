@@ -5,7 +5,7 @@
 
 This is a tutorial on building a portfolio website using React and tools from the GitHub Student Developer Pack. Tools used from the **GitHub Student Developer Pack** are **Heroku**, **Namecheap** and **GitHub**.  
 
-The hosted version of this repository is live at [http://anupamdagar.com/GitHub-Education-Portfolio](http://anupamdagar.com/GitHub-Education-Portfolio)
+The hosted version of this repository is live at [http://github.com/GitHubEducationPortfolio](http://github.com/GitHubEducationPortfolio)
 
 ![landing page image](./landing.png)
 
@@ -17,7 +17,7 @@ The hosted version of this repository is live at [http://anupamdagar.com/GitHub-
 5. Place your image in `Assets` directory present inside `src` directory. Make sure to rename it to `profile.jpg` or else you can edit the filename in `import` statement of `Sidebar.js` Component.
 
 ## Blog Post
-The detailed blog post for the tutorial is at [medium link here](https://levelup.gitconnected.com/create-a-portfolio-using-react-and-github-student-developer-pack-955379207855)
+The detailed blog post for the tutorial is at [medium link here](https://levelup.gitconnected.com/create-a-portfolio-using-react-and-github-student-developer-pack)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  
 The Bootstrap template used in this tutorial is [https://github.com/BlackrockDigital/startbootstrap-resume](https://github.com/BlackrockDigital/startbootstrap-resume)
