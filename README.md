@@ -7,7 +7,6 @@ This is a tutorial on building a portfolio website using React and tools from th
 
 The hosted version of this repository is live at [http://github.com/MinhNNdev/GitHubEducationPortfolio](http://github.com/MinhNNdev/GitHubEducationPortfolio)
 
-![landing page image](./landing.png)
 
 ## Steps to run locally
 1. Clone the repository using `git clone https://github.com/MinhNNdev/GitHubEducationPortfolio.git`
